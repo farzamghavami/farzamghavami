@@ -4,7 +4,7 @@
 
 <p align="center">I’m a backend developer 💻 with a passion for turning ideas into clean, reliable, and efficient code. My main stack revolves around Django and Python — tools I’m constantly exploring and improving myself with. When things get tough or pressure builds up, I stay calm, adaptable, and solution-oriented. I’m a lifelong learner who’s always eager to grow, keep up with new technologies, and become a better developer. My ultimate aim is not just to solve problems, but to make a positive and meaningful contribution to the team and the tech community..</p>
 
-<p align="center">💬  &nbsp;Ask me about **Python** | **Django** <br></p>  
+
 <br><br>
 <h2 align="center">📞 &nbsp;Connect with me</h2>
 

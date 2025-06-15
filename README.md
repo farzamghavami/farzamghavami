@@ -1,4 +1,4 @@
-## 👋 Hello, I'm **Farzam Ghavami**!  
+ ## 👋 Hello, I'm **Farzam Ghavami**!  
 
 🔥 **Backend Developer | Python | Django**   
 ❤️ Passionate about clean, scalable, and high-performance code   
@@ -24,15 +24,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)   
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black)    
 
-✅ **Task Management:**   
 ![Celery](https://img.shields.io/badge/Celery-378A65?style=flat-square&logo=Celery)   
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=Redis)    
 
-✅ **Testing:**   
 ![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat-square)   
 ![Unit-Test](https://img.shields.io/badge/Unit_Test-000000?style=flat-square)    
 
-✅ **Methodologies:**   
 ![Agile](https://img.shields.io/badge/Agile-5CC500?style=flat-square)   
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)    
 

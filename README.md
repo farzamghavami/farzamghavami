@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  alt="Farzam Ghavami"> <br> I'm Farzam Ghavami</h1>
 
-<div align="center">
-        <link rel="apple-touch-icon" href="favicon.png">
-        <img width="340em" height="340em" src="./Farzamghavami.png"   alt="Farzam Ghavami">
-</div>
+
 
 <p align="center">I’m a backend developer 💻 with a passion for turning ideas into clean, reliable, and efficient code. My main stack revolves around Django and Python — tools I’m constantly exploring and improving myself with. When things get tough or pressure builds up, I stay calm, adaptable, and solution-oriented. I’m a lifelong learner who’s always eager to grow, keep up with new technologies, and become a better developer. My ultimate aim is not just to solve problems, but to make a positive and meaningful contribution to the team and the tech community..</p>
 

@@ -5,7 +5,7 @@
         <img width="340em" height="340em" src="./Farzamghavami.png"   alt="Farzam Ghavami">
 </div>
 
-<p align="center">I am a backend developer 💻. My expertise lies in Django and Python, where I love turning ideas into beautiful and efficient solutions. When the going gets tough and the team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible.</p>
+<p align="center">I’m a backend developer 💻 with a passion for turning ideas into clean, reliable, and efficient code. My main stack revolves around Django and Python — tools I’m constantly exploring and improving myself with. When things get tough or pressure builds up, I stay calm, adaptable, and solution-oriented. I’m a lifelong learner who’s always eager to grow, keep up with new technologies, and become a better developer. My ultimate aim is not just to solve problems, but to make a positive and meaningful contribution to the team and the tech community..</p>
 
 <p align="center">💬  &nbsp;Ask me about **Python** | **Django** <br></p>  
 <br><br>

@@ -18,12 +18,14 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=Postgres&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-d93327?style=for-the-badge&logo=Redis&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-d93327?style=for-the-badge&logo=Redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-378A65?style=for-the-badge&logo=Celery)
 
 ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
